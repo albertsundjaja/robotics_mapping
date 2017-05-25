@@ -8,6 +8,7 @@
 To begin using the model, execute the command
 `python drive_rover.py`
 Run the simulator and choose autonomous
+https://s3-us-west-1.amazonaws.com/udacity-robotics/Rover+Unity+Sims/Windows_Roversim.zip
 
 # Identifying obstacles and rock samples
 Obstacles are identified by reversing navigable terrain. Thus, it includes the cliffs and blocking rocks. 
